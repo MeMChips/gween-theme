@@ -2,7 +2,8 @@
     "manifest": {
         "author": "MeMChips_#8635",
         "version": "0.1",
-        "name": "gween"
+        "name": "gween",
+        "updater": "https:\/\/raw.githubusercontent.com\/MeMChips\/gween-theme\/main\/gween.json"
     },
     "background": {},
     "fonts": {
