@@ -4,8 +4,7 @@ A green coloured theme for aliucord. also my first theme.
 
 # Optional 
 
-create a folder/file named "enable_fonts" to get the custom font
+Create a folder/file named "enable_fonts" in the aliucord folder to get the custom font.
 
-# Updates
 
-Coming Soon...
+
